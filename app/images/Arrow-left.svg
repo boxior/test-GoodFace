@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="20px" viewBox="0 0 70 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Form-Closed" fill="#FFFFFF">
+            <g id="Button">
+                <g id="Text-and-Arrow">
+                    <polygon id="Arrow-left" transform="translate(35.000000, 10.000000) rotate(180.000000) translate(-35.000000, -10.000000) " points="60.585 0 57.756 3.003 62.344 7.875 0 7.875 0 12.124 62.344 12.124 57.756 16.996 60.585 20 70 10"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
